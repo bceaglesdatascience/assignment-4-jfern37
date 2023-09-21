@@ -30,6 +30,4 @@ def main():
 
     print(total_costs)
 
-
-if __name__ == "__main__":
-    main()
+main()
